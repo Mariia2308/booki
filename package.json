@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/JS-new_teamProject/",
+    "build": "vite build --base=/booki/",
     "preview": "vite preview"
   },
   "devDependencies": {
