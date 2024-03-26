@@ -1,0 +1,25 @@
+{
+  "name": "js-new_team-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --base=/JS-new_teamProject/",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "glob": "^8.1.0",
+    "vite": "^4.5.2"
+  },
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "izitoast": "^1.4.0",
+    "node": "^21.6.2",
+    "tui-pagination": "^3.4.1",
+    "vite-plugin-full-reload": "^1.0.5",
+    "vite-plugin-html-inject": "^1.0.1"
+  }
+}
